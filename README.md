@@ -48,7 +48,7 @@ O frontend estará rodando na porta **3000**. O backend será simulado por meio 
 
 Assista a uma demonstração do projeto no link abaixo:
 
-[![Demonstração do Projeto](https://img.youtube.com/vi/sEEZQnL_gJk/0.jpg)](https://www.youtube.com/watch?v=sEEZQnL_gJk)
+[![Demonstração do Projeto](https://github.com/FelipeMrtnsDev/eplay/blob/main/src/assets/images/Screenshot_112.png)](https://www.youtube.com/watch?v=sEEZQnL_gJk)
 
 ## Licença
 
